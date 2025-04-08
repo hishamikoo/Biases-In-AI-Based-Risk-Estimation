@@ -2,7 +2,7 @@
 
 This paper critically examines **biases in AI-based risk estimation**, specifically focusing on **recidivism prediction systems** used in the criminal justice system. It emphasizes the **ethical challenges** of balancing fairness, accuracy, and transparency while tackling biases that disproportionately affect vulnerable and marginalized groups.
 
-📄 [**Full Report (PDF)**](https://github.com/hishamikoo/Biases%20in%20AI-based%20Risk%20Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation%20-%20Report%20.pdf)
+📄 [**Full Report (PDF)**](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation%20-%20Report%20.pdf)
 
 ---
 
